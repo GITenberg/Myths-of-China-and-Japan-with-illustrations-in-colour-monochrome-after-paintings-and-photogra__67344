@@ -1,5 +1,8 @@
 _repo: Myths-of-China-and-Japan-with-illustrations-in-colour-monochrome-after-paintings-and-photogra__67344
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67344-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Mackenzie, Donald A. (Donald Alexander)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3303
     wikipedia: https://en.wikipedia.org/wiki/Donald_Alexander_Mackenzie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67344#Myths-of-China-and-Japan-with-illustrations-in-colour-monochrome-after-paintings-and-photogra_
 gutenberg_issued: '2022-02-06'
 identifiers:
   gutenberg: '67344'
